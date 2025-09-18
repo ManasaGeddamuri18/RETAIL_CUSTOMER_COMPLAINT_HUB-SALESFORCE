@@ -1,6 +1,6 @@
-# 🛍️ Retail Customer Complaint Hub  
+#  Retail Customer Complaint Hub  
 
-## 📌 **Problem Statement**  
+## **Problem Statement**  
 In the retail industry, handling customer complaints manually often leads to inefficiencies. Customers face delays in resolution, duplicate complaints cause confusion, and managers struggle to monitor satisfaction levels.  
 
 This project aims to build a **Retail Customer Complaint Hub** where:  
@@ -12,18 +12,18 @@ This project aims to build a **Retail Customer Complaint Hub** where:
 
 ---
 
-## 🚀 **Features**  
-- 📝 **Submit Complaints** → Customers can log complaints with severity levels.  
-- 🔍 **Duplicate Prevention** → Prevent duplicate complaints for the same order.  
-- 🔄 **Automatic Assignment** → Complaints auto-assigned to service agents.  
-- 🛠️ **Resolution Management** → Agents provide solutions and escalate when needed.  
-- ✅ **Manager Approval** → High-value compensations require manager approval.  
-- 📊 **Reports** → Generate customer satisfaction and resolution reports.  
-- 📧 **Notifications** → Customers receive email updates on complaint status.  
+## **Features**  
+-  **Submit Complaints** → Customers can log complaints with severity levels.  
+-  **Duplicate Prevention** → Prevent duplicate complaints for the same order.  
+-  **Automatic Assignment** → Complaints auto-assigned to service agents.  
+-  **Resolution Management** → Agents provide solutions and escalate when needed.  
+-  **Manager Approval** → High-value compensations require manager approval.  
+-  **Reports** → Generate customer satisfaction and resolution reports.  
+-  **Notifications** → Customers receive email updates on complaint status.  
 
 ---
 
-## 👥 **Stakeholders**  
+##  **Stakeholders**  
 - **Admin** → System setup & configuration  
 - **Customers** → Submit complaints & track progress  
 - **Customer Service Agents** → Manage complaints & provide resolutions  
@@ -31,7 +31,7 @@ This project aims to build a **Retail Customer Complaint Hub** where:
 
 ---
 
-## 🔄 **Workflow**  
+## **Workflow**  
 1. **Customer submits** a complaint.  
 2. **Service agent checks** the category & assigns it.  
 3. **Manager approval** is required if compensation is involved.  
@@ -40,7 +40,7 @@ This project aims to build a **Retail Customer Complaint Hub** where:
 
 ---
 
-## 🎯 **Goal**  
+##  **Goal**  
 To create a simplified **customer complaint management system** that:  
 
 - Improves **response times**  
